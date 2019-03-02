@@ -10,8 +10,8 @@ AmigaOS  | [Deprecate 💀](https://github.com/emaculation/BasiliskII/issues/81)
 BeOS     | [Deprecate 💀](https://github.com/emaculation/BasiliskII/issues/82)
 FreeBSD  | [Costs 💰](https://cirrus-ci.org/pricing/)
 Linux    | [![Linux Build Status](http://badges.herokuapp.com/travis/emaculation/BasiliskII?env=BADGE=linux&label=build&branch=master)](https://travis-ci.org/ianfixes/arduino_ci)
-OSX      | [![OSX Build Status](http://badges.herokuapp.com/travis/emaculation/BasiliskII?env=BADGE=osx&label=build&branch=master)](https://travis-ci.org/ianfixes/arduino_ci)
-Windows  | [![Windows Build status](https://ci.appveyor.com/api/projects/status/b1h82askjdqev1on/branch/master?svg=true)](https://ci.appveyor.com/project/ianfixes/basiliskii)
+OSX      | [![OSX Build Status](http://badges.herokuapp.com/travis/emaculation/BasiliskII?env=BADGE=osx&label=build&branch=master)](https://travis-ci.org/ianfixes/arduino_ci) [Null ⚠️](https://github.com/emaculation/BasiliskII/issues/84)
+Windows  | [![Windows Build status](https://ci.appveyor.com/api/projects/status/b1h82askjdqev1on/branch/master?svg=true)](https://ci.appveyor.com/project/ianfixes/basiliskii) [Null ⚠️](https://github.com/emaculation/BasiliskII/issues/83)
 
 License
 -------
