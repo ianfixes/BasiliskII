@@ -1,18 +1,3 @@
-# Object files
-obj/*
-BasiliskII
-
-# Generated files for CPU emulation
-cpudefs.cpp
-cpuemu.cpp
-cpustbl.cpp
-cputbl.h
-cpuemu_nf.cpp
-cpustbl_nf.cpp
-
-patches/*
-.pc*
-
 # Autotools generated files
 Makefile
 
